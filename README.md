@@ -5,5 +5,5 @@
 
   <br /><br /><br /><br />
   
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,git,github,vscode,js,nodejs,nextjs,express,c,cpp,pytorch" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,git,github,vscode,js,nodejs,nextjs,express,c,cpp,pytorch,numpy,supabase" />
 </div>
