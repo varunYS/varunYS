@@ -11,7 +11,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,postgres,supabase,mongodb,docker,kafka,kubernetes,aws" />
 
   <br />
-  
+
+  <h2>GitHub Analytics</h2>
   <div align="center">
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunYS&theme=radical&hide_border=true" alt="GitHub Streak" />
