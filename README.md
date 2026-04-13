@@ -13,7 +13,7 @@
   <br />
 
   <h2>Activity Graph</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunYS&theme=radical&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunYS&theme=react&bg_color=0d1117&hide_border=true&area=true&color=61DAFB" width="100%" />
   <br />
   <h2>GitHub Analytics</h2>
   <div align="center">
