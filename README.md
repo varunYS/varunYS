@@ -3,11 +3,6 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=2000&color=00FF41&size=24&width=500&center=true&vCenter=true&lines=Backend+Engineering;System+Design;AI+Research;Building+Solutions...&v=3" alt="Typing SVG" />
 
-  <div align="center">
-  <br /><br />
-  <img src="https://i.imgur.com/kY7t4oD.png" alt="Varun's macOS Terminal" width="600" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
-  <br /><br /><br />
-</div>
 
   <h2>My Techstack </h2>
   <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,js,nodejs,nextjs,express,cpp" />
