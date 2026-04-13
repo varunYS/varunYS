@@ -1,5 +1,5 @@
-## Varun Shenai
+<div align="centre">
+  <h2>Varun Shenai</h2>
 
----
-
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Backend+Architecture;System+Design;AIML+Research)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F5D4&size=24&width=500&lines=Backend+Engineering;System+Design;AI+Research;Building+Solutions..." alt="Typing SVG" />
+</div>
