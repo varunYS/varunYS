@@ -12,6 +12,12 @@
 
   <br />
 
+  <h2>Github Stats</h2>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunYS&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunYS&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</div>
+  <br />
   <h2>GitHub Analytics</h2>
   <div align="center">
   <br />
