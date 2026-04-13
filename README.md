@@ -5,17 +5,7 @@
 
   <div align="center">
   <h3>Tech Stack</h3>
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <br />
-
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,javascript,nodejs,nextjs,express,docker,kafka,kubernetes,pytorch" />
 </div>
   
 </div>
