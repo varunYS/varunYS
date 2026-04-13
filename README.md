@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Varun Shenai</h1>
+  <h1>Varun</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=2000&color=00FF41&size=24&width=500&center=true&vCenter=true&lines=Backend+Engineering;System+Design;AI+Research;Building+Solutions...&v=3" alt="Typing SVG" />
 
