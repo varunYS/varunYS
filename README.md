@@ -5,7 +5,7 @@
 
 
   <h2>My Techstack </h2>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,pytorch,fastapi,js,nodejs,nextjs,express,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,pytorch,js,nodejs,nextjs,express,cpp" />
   <br /><br />
   <img src="https://skillicons.dev/icons?i=git,github,postgres,supabase,mongodb,redis,docker,kafka,kubernetes,aws" />
 
