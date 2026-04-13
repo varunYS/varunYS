@@ -12,8 +12,8 @@
 
   <br />
 
-  <h2>Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=varunYS&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <h2>Activity Graph</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunYS&theme=radical&bg_color=0d1117&hide_border=true&area=true" width="100%" />
   <br />
   <h2>GitHub Analytics</h2>
   <div align="center">
