@@ -8,6 +8,6 @@
   <h3>My Techstack </h3>
   <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,js,nodejs,nextjs,express,cpp" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,postgres,supabase,mongodb,atlas,docker,kafka" />
+  <img src="https://skillicons.dev/icons?i=git,github,postgres,supabase,mongodb,docker,kafka,kubernetes,aws" />
   
 </div>
